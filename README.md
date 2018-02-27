@@ -1,2 +1,2 @@
 # nxos-iso
-NXOS Main Repository 
+Bug Repository for Nitrux OS ISO Release
