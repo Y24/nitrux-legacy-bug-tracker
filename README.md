@@ -1,2 +1,2 @@
-# nxos-iso
+# nitrux-iso-bug-tracker
 Bug Repository for Nitrux OS ISO Release
