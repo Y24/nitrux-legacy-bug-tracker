@@ -1,5 +1,7 @@
 # Bug Repository for Nitrux 1.0.x Releases
-NOTE: Bugs for Nitrux `1.1.x` can be reported [here](https://github.com/Nitrux/nitrux-current-bug-tracker)
+
+NOTE: Bugs for Nitrux `1.1.x` can be reported [here](https://github.com/Nitrux/nitrux-bug-tracker)
+======
 
 ## How to report bugs
 Nitrux uses GitHub to keep track of bugs and their fixes.
